@@ -1,0 +1,87 @@
+#
+# TreefeedXavier <treefeed@mail.ru>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Era_of_Legends-1.12\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2015-02-21 13:31+0200\n"
+"PO-Revision-Date: 2015-02-21 13:32+0200\n"
+"Last-Translator: TreefeedXavier <onufrii@mail.ru>\n"
+"Language-Team: русский <>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\\n;\n"
+"X-Generator: Poedit 1.7.4\n"
+
+#. [era]: id=era_khalifate_legends
+#. [era]: id=era_legends
+#: era.cfg:24 era.cfg:35
+msgid "Era of Legends"
+msgstr "Эра Легенд"
+
+#. [era]: id=era_legends
+#: era.cfg:25
+msgid ""
+"Age of Heroes, one step higher. An era with higher level units: level four "
+"leaders, with level one, two, and three units available for recruit. "
+"Consists of six factions. Not considered balanced."
+msgstr ""
+"Эпоха героев, но на одну ступень выше. Эра с бойцами более высокого уровня: "
+"лидеры четвёртого уровня, с доступными для найма бойцами уровней один, два и "
+"три. Содержит шесть фракций. Не все сбалансированы."
+
+#. [era]: id=era_khalifate_legends
+#: era.cfg:36
+msgid ""
+"An era featuring an additional faction besides the six factions from Era of "
+"Legends. Khalifate units use no magic, but instead rely on careful use of "
+"terrain and coordinated strikes around dusk or dawn. Not considered balanced."
+msgstr ""
+"Эра предлагает дополнительную фракцию к шести фракциям Эры Легенд. Войны "
+"халифата не пользуются магией, но вместо этого полагаются на аккуратное "
+"использование местности и скоординированные удары в сумерках или на "
+"рассвете. Баланс не продуман."
+
+#. [unit_type]: id=EoL Orcish High Warlord, race=orc
+#: units/Orcish_High_Warlord.cfg:4
+msgid "Orcish High Warlord"
+msgstr "Верховный Лорд Орков"
+
+#. [unit_type]: id=EoL Orcish High Warlord, race=orc
+#: units/Orcish_High_Warlord.cfg:25
+msgid ""
+"Rarely, an orc will appear that has legendary strength and cunning. Such an "
+"orc is feared and respected by all other orcs, and his rule is never "
+"challenged."
+msgstr ""
+"Весьма редко, рождается орк легендарной силы и коварства. Этот орк держит в "
+"страхе и повиновении всех остальных орков, и его превосходство не "
+"обсуждается."
+
+#~ msgid "Version"
+#~ msgstr "Версия"
+
+#~ msgid "Programming & Design by SigurdFireDragon."
+#~ msgstr "Программирование и дизайн: SigurdFireDragon."
+
+#~ msgid "Era of Legends + Khalifate"
+#~ msgstr "Эра Легенд + Халифат"
+
+#~ msgid "greatsword"
+#~ msgstr "большой меч"
+
+#~ msgid "bow"
+#~ msgstr "лук"
+
+#~ msgid "Starting Income Multiplier"
+#~ msgstr "Начальный доход мультиплеера"
+
+#~ msgid ""
+#~ "The starting income for each side will be multipied by the selected "
+#~ "amount."
+#~ msgstr ""
+#~ "Начальный доход для каждой стороны будет умножен на выбранное значение."
