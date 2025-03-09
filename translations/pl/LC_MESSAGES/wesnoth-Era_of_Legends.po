@@ -1,10 +1,10 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Era_of_Legends-1.12\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: 2016-01-18 18:38-0500\n"
-"Last-Translator: Automatically generated\n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2025-03-07 17:59 UTC\n"
+"PO-Revision-Date: 2025-03-07 19:01+0100\n"
+"Last-Translator: Jarom <jaromirb@op.pl>\n"
 "Language-Team: none\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -12,44 +12,43 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
-"X-Generator: Poedit 1.8.6\n"
+"X-Generator: Poedit 3.4.2\n"
 
-#. [era]: id = era_legends;
-#. [era]: id = era_khalifate_legends;
-#: add-ons/C:\Wesnoth\1.12\userdata\data\add-ons\Era_of_Legendss/era.cfg:24
-#: add-ons/C:\Wesnoth\1.12\userdata\data\add-ons\Era_of_Legendss/era.cfg:35
+#. [era]: id=era_legends
+#. [era]: id=era_dunefolk_legends
+#: Era_of_Legends/eras.cfg:24 Era_of_Legends/eras.cfg:35
 msgid "Era of Legends"
 msgstr "Era Legend"
 
-#. [era]: id = era_legends;
-#: add-ons/C:\Wesnoth\1.12\userdata\data\add-ons\Era_of_Legendss/era.cfg:25
+#. [era]: id=era_legends
+#: Era_of_Legends/eras.cfg:25
 msgid ""
 "Age of Heroes, one step higher. An era with higher level units: level four "
 "leaders, with level one, two, and three units available for recruit. "
 "Consists of six factions. Not considered balanced."
 msgstr ""
 "Jeszcze bardziej rozwinięty Wiek Bohaterów. Era z liderami czwartego "
-"poziomu, oraz pierwszego, drugiego i trzeciego poziomu do rekrutacji. "
-"Zawiera sześć frakcji. Nie jest zbyt zbalansowana."
+"poziomu, oraz jednostkami pierwszego, drugiego i trzeciego poziomu do "
+"rekrutacji. Zawiera sześć frakcji. Nie jest zbalansowana."
 
-#. [era]: id = era_khalifate_legends;
-#: add-ons/C:\Wesnoth\1.12\userdata\data\add-ons\Era_of_Legendss/era.cfg:36
+#. [era]: id=era_dunefolk_legends
+#: Era_of_Legends/eras.cfg:36
 msgid ""
 "An era featuring an additional faction besides the six factions from Era of "
-"Legends. Khalifate units use no magic, but instead rely on careful use of "
-"terrain and coordinated strikes around dusk or dawn. Not considered balanced."
+"Legends. Dunefolk units rely on careful use of terrain and coordinated "
+"strikes around dusk or dawn. Not considered balanced."
 msgstr ""
-"Era dodająca dodatkową frakcję do sześciu podstawowych z Ery Legend. "
-"Jednostki Kalifatu nie używają magii, zamiast tego polegają na sprytnym "
-"wykorzystaniu terenu i skoordynowanych atakach o zmierzchu i świcie."
+"Era dodająca dodatkową frakcję do sześciu podstawowych z Ery Legend. Ludy "
+"Pustyni polegają na sprytnym wykorzystaniu terenu i skoordynowanych atakach "
+"o zmierzchu i świcie. Nie jest zbalansowana."
 
-#. [unit_type]: id = EoL Orcish High Warlord;
-#: add-ons/C:\Wesnoth\1.12\userdata\data\add-ons\Era_of_Legendss/units/Orcish_High_Warlord.cfg:4
+#. [unit_type]: id=EoL Orcish High Warlord, race=orc
+#: Era_of_Legends/units/Orcish_High_Warlord.cfg:4
 msgid "Orcish High Warlord"
-msgstr "Najwyższy suweren orków."
+msgstr "Najwyższy suweren orków"
 
-#. [unit_type]: id = EoL Orcish High Warlord;
-#: add-ons/C:\Wesnoth\1.12\userdata\data\add-ons\Era_of_Legendss/units/Orcish_High_Warlord.cfg:25
+#. [unit_type]: id=EoL Orcish High Warlord, race=orc
+#: Era_of_Legends/units/Orcish_High_Warlord.cfg:18
 msgid ""
 "Rarely, an orc will appear that has legendary strength and cunning. Such an "
 "orc is feared and respected by all other orcs, and his rule is never "
